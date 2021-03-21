@@ -1,0 +1,1 @@
+# Algoritma Depth First Search (DFS) adalah suatu metode pencarian pada sebuah pohon dengan menelusuri satu cabang sebuah pohon sampai menemukan solusi atau pencarian secara mendalam.  Pencarian ini dilakukan pada satu node dalam setiap level dari yang paling kiri dan dilanjutkan pada node sebelah kanan. 

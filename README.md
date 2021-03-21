@@ -1,1 +1,1 @@
-# expertsystem
+# Untuk melengkapi nilai mata kuliah expertsystem
